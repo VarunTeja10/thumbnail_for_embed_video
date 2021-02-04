@@ -1,7 +1,10 @@
 # This is Raw 
+
+```python
 <div onclick="this.style.display='none'; this.nextSibling.style.display='block';"><img src="image.png" style="cursor:pointer" /></div><div style="display:none">
 <!-- Embed code here -->
 </div>
+```
 
 # By editing this 🧐
 
