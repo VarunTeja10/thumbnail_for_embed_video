@@ -40,4 +40,5 @@ ___
 https://www.iframe-generator.com/
 
 
-[In this site you can do this](https://catbox.moe/faq.php "title" target="_blank")
+[In this site you can do this]( "title" target="_blank")
+<a href="https://catbox.moe/faq.php" target="_blank">New Tab</a>
