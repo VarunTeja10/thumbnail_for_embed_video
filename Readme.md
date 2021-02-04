@@ -38,9 +38,6 @@ ___
 
 1. First before creating a ```iframe embed code``` you have to create a link **stremlink** for your video.
 
-<details>
-<summary> Here you can do this 😘</summary>
-<p>[Open](https://catbox.moe/faq.php)</p>
-</details>
+[𝗢𝗣𝗘𝗡 this to create](https://catbox.moe/faq.php)
 
 Then after getting link customise you ``iframe code`` by [opening this site](https://www.iframe-generator.com/)
