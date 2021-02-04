@@ -36,8 +36,8 @@ ___
 
 # How to create `iframe`?
 
-1. First before creating a ```iframe embed code``` you have a link **stremlink** for your video.
+1. First before creating a ```iframe embed code``` you have to create a link **stremlink** for your video.
 https://www.iframe-generator.com/
 
-[In this site you can do this](https://catbox.moe/faq.php){:target="_blank"}
 
+[In this site you can do this](https://catbox.moe/faq.php "title" target="_blank")
