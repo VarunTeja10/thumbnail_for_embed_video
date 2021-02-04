@@ -42,4 +42,4 @@ ___
 
 - Then after getting link customise you ``iframe code`` by [opening this site](https://www.iframe-generator.com/)
 
-# [Then as usual](#By editing this 🧐)
+# [Then as usual](#By-editing-this-🧐)
