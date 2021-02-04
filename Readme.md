@@ -39,6 +39,4 @@ ___
 1. First before creating a ```iframe embed code``` you have to create a link **stremlink** for your video.
 https://www.iframe-generator.com/
 
-
-[In this site you can do this]( "title" target="_blank")
-<a href="https://catbox.moe/faq.php" target="_blank">New Tab</a>
+[link](https://catbox.moe/faq.php"){:target="_blank"}
