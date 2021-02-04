@@ -40,7 +40,7 @@ ___
 
 <details>
 <summary> Here you can do this 😘</summary>
-[Open](https://catbox.moe/faq.php)
+<p>[Open](https://catbox.moe/faq.php)</p>
 </details>
 
 Then after getting link customise you ``iframe code`` by [opening this site](https://www.iframe-generator.com/)
