@@ -8,7 +8,7 @@
 
 # By editing this 🧐
 
-## It works for any iframe embed video let me show eg:-
+## It works for any `iframe` embed video let me show eg:-
 
 ```javascript
 <div onclick="this.style.display='none'; this.nextSibling.style.display='block';"><img src="https://telegra.ph/file/19203792b6a6a7673d8bf.jpg" style="cursor:pointer" /></div><div style="display:none">
